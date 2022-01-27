@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 adding line for rebasing ex
+more changes form 2nd branch
 
 ## Purpose
 
